@@ -1,2 +1,4 @@
-# MLAlgorithmNumpy
-NumPy implementation of machine learning algorithm 
+# NumPy implementation of machine learning algorithm 
+
+## Algorithm
+1. Linear Regression - OLE 
